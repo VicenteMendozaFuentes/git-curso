@@ -1,2 +1,4 @@
-console.log('hola mundo');
-//cambios
+function msg() {
+    alert("hola mundo");
+}
+
